@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Game Tebak Kata</title>
-    <link rel="stylesheet" href="style_1.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div id="game-container">
@@ -20,6 +20,6 @@
         <button id="restart-button">Ulangi Permainan</button>
         <p id="feedback"></p>
     </div>
-    <script src="script1.js"></script>
+    <script src="script.js"></script>
 </body>
 </html>
